@@ -14,7 +14,7 @@ CLI app to track your tasks and manage your to-do list.
   ```
  - enter to the project
   ```bash
-    cd "Task Tracker"
+    cd "Task_Tracker"
   ```
  - install the dependecies
   ```bash
