@@ -24,8 +24,17 @@ CLI app to track your tasks and manage your to-do list.
   ```bash
   npm start
   ```
+<img src="https://github.com/user-attachments/assets/2029c109-c688-4d9c-afd3-3bf334bc7b38">
+
 
 ## Commande Line Interface
 
  - **`help`**: show all command
- - **`add`**: Added a new task 
+   
+   <img src="https://github.com/user-attachments/assets/51ccc71a-ac97-4984-ad82-545cd4426b34">
+   
+ - **`add`**: Added a new task
+
+ <img src="https://github.com/user-attachments/assets/d4579cc6-7d13-427a-bbd2-fbeba43339f9">
+
+
