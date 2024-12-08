@@ -9,8 +9,8 @@ CLI app to track your tasks and manage your to-do list.
 ## Installation
 
  - clone this repository
-  ```bash
-    git clone 
+  ```git 
+    git clone https://github.com/TsitouhRanjafy/Task_Tracker.git
   ```
  - enter to the project
   ```bash
