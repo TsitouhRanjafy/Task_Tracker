@@ -1,5 +1,5 @@
 ## Task Tracker
-CLI app to track your tasks and manage your to-do list.
+CLI app to track your tasks and manage your to-do list. Details [here](https://roadmap.sh/projects/task-tracker)
 
 ## Requirement to run this
  - **`prompts`**: Prompts is a higher level and user friendly interface built on top of Node.js's inbuilt **`Readline`** module.
@@ -36,10 +36,3 @@ CLI app to track your tasks and manage your to-do list.
  - **`add`**: Added a new task
 
  <img src="https://github.com/user-attachments/assets/d4579cc6-7d13-427a-bbd2-fbeba43339f9">
-
- ### project URL
-```link
-https://roadmap.sh/projects/task-tracker
-```
-
-
