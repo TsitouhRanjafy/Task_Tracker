@@ -22,7 +22,6 @@ figlet(
 
 async function listenCMD() {
     do {
-
         input = await prompts(questions)
         input = extract(input.cmd);
         switch (input.p1) {
@@ -50,14 +49,17 @@ async function listenCMD() {
             case 'help':
                 service.help();
                 break;
+            case 'exit':
+                console.log("exit");
+                break;
             default:
-                console.log(' none')
+                console.log('none')
                 break;
         }
         
         setTimeout(() => {
         },500)
-    } while(input.p1 != 'stop');
+    } while(input.p1 != 'exit');
 }    
 
 const questions = [

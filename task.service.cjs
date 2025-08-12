@@ -54,7 +54,7 @@ const updateTaskById = (id,description) => {
         updatedAt: new Date,
     }
     DA.updateTaskById(id,task);
-    console.log("*Task deleted\n");
+    console.log("*Task updated\n");
 }
 
 const deleteById = (id) => {
@@ -93,7 +93,7 @@ const help = () => {
     console.log("\t list                        list all task ");
     console.log("\t list <param>                list task by [done,todo,in-progress]");
     console.log("\t task <id>                   get task by id");
-    console.log("\t stop                        stop the programme");
+    console.log("\t exit                        close the programme");
 }
 
 module.exports = {
